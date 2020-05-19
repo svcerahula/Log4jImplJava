@@ -1,0 +1,5 @@
+15:30:12.998 [main] INFO  act - Frames count retreived
+15:30:13.028 [main] INFO  act - Successfully switched to frame
+15:30:13.028 [main] DEBUG act - Identifying Draggable objects
+15:30:13.406 [main] INFO  act - Drag and drop success
+15:30:13.860 [main] INFO  act - Successfully closed the WebDriver object

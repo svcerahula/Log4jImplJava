@@ -1,0 +1,9 @@
+01:59:58.210 [main] DEBUG beta.Demo2 - In debug mode Demo2
+01:59:58.230 [main] INFO  beta.Demo2 - in info mode Demo2
+01:59:58.230 [main] ERROR beta.Demo2 - in error mode Demo2
+01:59:58.231 [main] FATAL beta.Demo2 - in fatal mode Demo2
+15:29:57.576 [main] DEBUG act - Setting chrome driver property
+15:30:02.916 [main] INFO  act - Window Maximized
+15:30:02.916 [main] DEBUG act - Now hitting Amazon server
+15:30:05.692 [main] INFO  act - Landed on amazon home page
+15:30:12.967 [main] DEBUG act - Getting the frames count
